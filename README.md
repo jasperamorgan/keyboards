@@ -3,4 +3,4 @@ Notes about keyboards, models, useful videos etc.
 
 * [Equipment/Parts Suppliers](equipment-suppliers.md)
 * [Split Boards](split-boards.md)
-* [Custom Ready-Made Keyboards](custom-keyboards.md)
+* [Custom Ready-Made Keyboards](custom-ready-made-keyboards.md)
