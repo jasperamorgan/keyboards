@@ -2,3 +2,4 @@
 
 * https://keeb.io/
 * https://kprepublic.com/
+* https://mechanicalkeyboards.com/
