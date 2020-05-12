@@ -4,3 +4,4 @@
 * https://kprepublic.com/
 * https://mechanicalkeyboards.com/
 * https://mykeyboard.eu/
+* https://novelkeys.xyz/
