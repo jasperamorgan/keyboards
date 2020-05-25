@@ -5,3 +5,4 @@
 * https://mechanicalkeyboards.com/
 * https://mykeyboard.eu/
 * https://novelkeys.xyz/
+* https://jujucables.com/
