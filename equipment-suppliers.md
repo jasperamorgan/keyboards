@@ -6,3 +6,4 @@
 * https://mykeyboard.eu/
 * https://novelkeys.xyz/
 * https://jujucables.com/
+* https://dixiemech.com/
