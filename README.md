@@ -11,3 +11,4 @@ Notes about keyboards, models, useful videos etc.
 * https://deskthority.net/wiki/Main_Page
 * https://www.keychatter.com/
 * https://keycapt.com/
+* http://keyboardcatalog.com/
