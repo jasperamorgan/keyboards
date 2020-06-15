@@ -2,6 +2,7 @@
 
 * https://dixiemech.com/
 * https://jujucables.com/
+* https://kbdfans.com/
 * https://keeb.io/
 * https://kono.store/
 * https://kprepublic.com/
