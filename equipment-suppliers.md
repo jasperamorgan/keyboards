@@ -1,6 +1,7 @@
 # A list of keyboard part/kit suppliers
 
 * https://dixiemech.com/
+* https://diykeyboards.com/
 * https://jujucables.com/
 * https://kbdfans.com/
 * https://keeb.io/
