@@ -12,3 +12,8 @@ Notes about keyboards, models, useful videos etc.
 * https://www.keychatter.com/
 * https://keycapt.com/
 * http://keyboardcatalog.com/
+
+# Misc
+
+* Foam: https://www.technicalfoamservices.co.uk/
+* https://www.youtube.com/watch?v=59dC9Bm9kGQ:
