@@ -14,8 +14,9 @@
 * https://mykeyboard.eu/
 * https://shop.norbauer.com/
 * https://oblotzky.industries/
+* https://projectkeyboard.com/
 * https://protozoa.studio
-* https://store.projectkeyboard.com/
+* https://sneakbox.com/
 * https://novelkeys.xyz/
 * https://zealpc.net/
 * https://en.zfrontier.com/
