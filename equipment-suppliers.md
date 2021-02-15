@@ -8,10 +8,13 @@
 * https://jujucables.com/
 * https://kbdfans.com/
 * https://keeb.io/
+* https://keebcats.co.uk/
+* https://kibou.store/
 * https://kono.store/
 * https://kprepublic.com/
 * https://mechanicalkeyboards.com/
 * https://mykeyboard.eu/
+* https://noxary.co/
 * https://shop.norbauer.com/
 * https://oblotzky.industries/
 * https://projectkeyboard.com/
