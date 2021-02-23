@@ -1,5 +1,42 @@
 https://geekhack.org/index.php?topic=86815.0
 
+# Open Source Keyboard Designs
+
+* https://github.com/kkatano/bakeneko-65
+* https://github.com/kkatano/bakeneko-60
+
+# Learning
+
+* https://thomasbaart.nl/2019/04/07/cheat-sheet-custom-keyboard-mounting-styles/
+
+
+# Prototyping 
+* https://xometry.de
+* https://sunpe.com
+* https://www.plethora.com
+* https://www.3dhubs.com/
+* https://www.protolabs.co.uk/
+* https://www.weerg.com
+* https://www.starrapid.com
+* https://go.batchforce.com
+* https://www.hy-prototypes.com
+* https://www.hemlockltd.co.uk
+* https://www.aliexpress.com/item/33058198443.html
+
+# Build Stories
+
+* https://www.3dhubs.com/knowledge-base/how-design-parts-cnc-machining/
+* https://www.keebtalk.com/t/the-winghead-a-new-personal-keyboard-project/7312/32
+
+
+# Keyboard Design Studios
+
+* https://ionkeyboards.com/
+* https://keycult.com/
+* https://percent.studio/
+* https://projectkeyboard.com/
+* https://rama.works/
+
 
 # 60% and evlolution
 
@@ -41,22 +78,3 @@ https://geekhack.org/index.php?topic=86815.0
 
 * Plates in brass, polycarb, fr4, pom
 * Alps support only
-
-# Prototyping 
-* https://xometry.de
-* https://sunpe.com
-* https://www.plethora.com
-* https://www.3dhubs.com/
-* https://www.protolabs.co.uk/
-* https://www.weerg.com
-* https://www.starrapid.com
-* https://go.batchforce.com
-* https://www.hy-prototypes.com
-* https://www.hemlockltd.co.uk
-* https://www.aliexpress.com/item/33058198443.html
-
-# Build Stories
-
-* https://www.3dhubs.com/knowledge-base/how-design-parts-cnc-machining/
-* https://www.keebtalk.com/t/the-winghead-a-new-personal-keyboard-project/7312/32
-
