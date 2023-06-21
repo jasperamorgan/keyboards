@@ -7,7 +7,7 @@ Download the keymap as a JSON file.
 # Convert keymap JSON to QMK Keymap
 
 ```
-qmk json2c keymap.c
+qmk json2c keymap.json > keymap.c
 ```
 
 # Flash on command line
